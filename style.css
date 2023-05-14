@@ -5,9 +5,16 @@
 }
 
 h1 {
-    background-color: blueviolet;
+    color: #fff;
+    background-color: rgb(66, 57, 56);
+    text-align: center;
 }
 
-p {
-    color: #40146f
+.text {
+    color: rgb(24, 24, 24);
+    text-align: center;
+}
+
+.cat-img {
+    width: 100%;
 }
